@@ -1,0 +1,60 @@
+body{
+    background-color: #f1f1f1;
+}
+
+header{
+    text-align: center;
+    
+}
+
+.resumo{
+    color:red;
+}
+
+h2{
+    padding-left: 1em;
+}
+
+.minhafoto{
+    text-align: center;
+}
+
+article{
+    background-color: #f8edeb;
+
+}
+
+.parte1{
+    
+    text-align: center; 
+      
+}
+
+.parte2{
+    
+    text-align: center;
+    
+}
+
+.parte3{
+    
+    text-align: center;
+}
+.parte4{
+    display: table-cell;
+    text-align: center;
+}
+
+.hill{
+    display: table-cell;
+    text-align: center;
+}
+
+.rick{
+    display: table-cell;
+    text-align: center;
+}
+
+.dark{
+    text-align: center;
+}
